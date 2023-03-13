@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          조금수정해서 커밋하기
         </a>
       </header>
     </div>
